@@ -1,5 +1,5 @@
 
-# sigma to Golang gosigma
+# gosigma
 
 ## Overview
 
