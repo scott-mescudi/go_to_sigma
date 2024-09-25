@@ -43,6 +43,4 @@ var SigmalangMap = map[string]string{
 	"go":      "gyaat",
 	"mux":     "dukedennis",
 	"http":    "oupatevwey",
-	"\\":      "grimace",
-	"/":       "liga",
 }
